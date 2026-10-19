@@ -1,4 +1,4 @@
-event_id,event_time,event_name,customer_id,anonymous_id,session_id,platform,app_version
+Event_ID,Event_Time,Event_Name,Customer_ID,Anonymous_ID,Session_ID,Platform,App_Version
 evt_d798024befd2,2023-12-30T14:25:33Z,pricing_page_viewed,,anon_6f20f1b79f,,web,2.5.2
 evt_a4ca54d9e898,2023-12-30T21:11:48Z,pricing_page_viewed,,anon_6f20f1b79f,,web,2.5.2
 evt_8e354741a155,2023-12-30T21:25:14Z,pricing_page_viewed,,anon_90393b0656,,web,2.5.2

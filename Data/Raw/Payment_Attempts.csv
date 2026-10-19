@@ -1,4 +1,4 @@
-attempt_id,invoice_id,attempt_number,attempted_at,result,failure_reason
+Attempt_ID,Invoice_ID,Attempt_Number,Attempted_At,Result,Failure_Reason
 1,1,1,2025-05-21,succeeded,
 2,2,1,2026-06-19,succeeded,
 3,3,1,2026-06-10,succeeded,

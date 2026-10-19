@@ -1,4 +1,4 @@
-customer_id,full_name,email,country_id,channel_id,signup_date
+Customer_ID,Full_Name,Email,Country_ID,Channel_ID,Signup_Date
 1,Hannah Ricci,hannah.ricci868@example.com,15,3,2025-05-07
 2,Noah Tanaka,NOAH.TANAKA87@EXAMPLE.NET,11,5,2026-06-05
 3,Lena Wojcik,lena.wojcik558@example.org,4,1,2026-05-15

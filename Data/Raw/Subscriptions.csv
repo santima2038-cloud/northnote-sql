@@ -1,4 +1,4 @@
-subscription_id,customer_id,plan_id,coupon_id,status,created_at,trial_end,converted_at,canceled_at,access_ends_at,cancel_reason
+Subscription_ID,Customer_ID,Plan_ID,Coupon_ID,Status,Created_At,Trial_End,Converted_At,Canceled_At,Access_Ends_At,Cancel_Reason
 1,1,2,,canceled,2025-05-07,2025-05-21,2025-05-21,2026-05-07,2026-05-21,missing_features
 2,2,2,,active,2026-06-05,2026-06-19,2026-06-19,,,
 3,3,1,,trial_expired,2026-05-15,2026-05-29,,,,

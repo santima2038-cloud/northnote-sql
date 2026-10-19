@@ -1,4 +1,4 @@
-invoice_id,subscription_id,plan_id,period_start,period_end,amount,discount_amount,status
+Invoice_ID,Subscription_ID,Plan_ID,Period_Start,Period_End,Amount,Discount_Amount,Status
 1,1,2,2025-05-21,2026-05-21,90.00,0.00,paid
 2,2,2,2026-06-19,2027-06-19,90.00,0.00,paid
 3,6,1,2026-06-10,2026-07-10,9.00,0.00,paid
