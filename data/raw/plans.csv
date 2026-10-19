@@ -1,0 +1,7 @@
+plan_id,plan_code,plan_name,billing_cycle,price
+1,starter_monthly,Starter,monthly,9.00
+2,starter_annual,Starter,annual,90.00
+3,pro_monthly,Pro ,monthly,19.00
+4,pro_annual,Pro,annual,190.00
+5,team_monthly,Team,monthly,49.00
+6,team_annual,Team,annual,490.00

@@ -1,0 +1,7 @@
+channel_id,channel_code,channel_name
+1,organic,Organic search
+2,paid_search,Paid search ads
+3,paid_social,Paid social ads
+4,referral,Referral program
+5,partners,Partnerships
+6,google_ads,Google Ads
