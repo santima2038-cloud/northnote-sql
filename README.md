@@ -85,21 +85,3 @@ _[captura]_
 ## Qué haría después
 
 _[próximos pasos o preguntas que quedaron abiertas]_
-
----
-
-## Estructura del repositorio
-
-```
-northnote-sql/
-├── README.md
-├── data/
-│   ├── README.md         ← diccionario de datos
-│   └── raw/              ← los 9 CSV originales
-├── diagrama/             ← diagrama ER
-├── sql/
-│   ├── 01_tablas.sql     ← creación de tablas
-│   ├── 02_limpieza.sql   ← corrección de errores
-│   └── 03_analisis.sql   ← consultas de negocio
-└── dashboard/            ← capturas
-```
